@@ -2,20 +2,6 @@
 
 A robust RESTful API built with Express.js, TypeScript, PostgreSQL, and Prisma for managing school operations including students, classes, and user authentication.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [API Endpoints](#api-endpoints)
-- [Authentication](#authentication)
-- [Database Schema](#database-schema)
-- [Usage Examples](#usage-examples)
-- [Docker Setup](#docker-setup)
-- [Testing](#testing)
-- [Contributing](#contributing)
-
 ## ✨ Features
 
 ### Core Functionality
