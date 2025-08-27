@@ -34,9 +34,7 @@ A robust RESTful API built with Express.js, TypeScript, PostgreSQL, and Prisma f
 - **Database**: PostgreSQL
 - **ORM**: Prisma
 - **Authentication**: JWT (JSON Web Tokens)
-- **Validation**: class-validator & class-transformer
-- **Security**: bcryptjs, helmet, cors
-- **Containerization**: Docker & Docker Compose
+- **Security**: bcryptjs
 - **Development**: nodemon, ts-node
 
 ## 🚀 Getting Started
