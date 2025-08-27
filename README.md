@@ -19,14 +19,11 @@ A robust RESTful API built with Express.js, TypeScript, PostgreSQL, and Prisma f
 - Password hashing with bcryptjs
 - JWT token-based authentication
 - Role-based route protection
-- Input validation and sanitization
-- CORS and security headers (Helmet)
 
 ### Developer Experience
 
 - Full TypeScript implementation
 - Prisma ORM with type safety
-- Docker containerization
 - Database seeding scripts
 - Comprehensive error handling
 - API documentation ready
